@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EMS", "EMS.csproj", "{252C7211-7412-46AD-8BB9-DF136B0FBF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMSWindForms", "..\EMSWindForms\EMSWindForms.csproj", "{63C89E2A-A70A-4EB0-AA99-D1B4F34E779C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252C7211-7412-46AD-8BB9-DF136B0FBF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252C7211-7412-46AD-8BB9-DF136B0FBF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252C7211-7412-46AD-8BB9-DF136B0FBF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252C7211-7412-46AD-8BB9-DF136B0FBF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C89E2A-A70A-4EB0-AA99-D1B4F34E779C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C89E2A-A70A-4EB0-AA99-D1B4F34E779C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C89E2A-A70A-4EB0-AA99-D1B4F34E779C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C89E2A-A70A-4EB0-AA99-D1B4F34E779C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD754155-F7E5-4797-BBA8-BCFABD7EC751}
+	EndGlobalSection
+EndGlobal
